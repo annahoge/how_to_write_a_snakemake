@@ -1,0 +1,7 @@
+#samples.yaml
+
+samples:
+    sample1: /path/to/tumor_0001.bam
+    sample2: /path/to/tumor_0002.bam
+
+

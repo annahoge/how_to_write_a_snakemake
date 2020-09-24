@@ -1,0 +1,14 @@
+#cluster_slurm.yaml
+
+__default__:
+    partition: campus-new
+    time: "4:0:0"
+    mem: 4G
+    ncpus: 1
+    ntasks: 1
+    output: logs/cluster/{rule}.%A.out
+
+#rule1:
+#    time: "8:0:0"
+    
+#rule2:

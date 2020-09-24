@@ -1,0 +1,4 @@
+#config.yaml
+
+samtools: /path/to/samtools
+my_script: /path/to/my_script.R
